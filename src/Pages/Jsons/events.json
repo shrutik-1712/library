@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "title": "Summer Art Exhibition",
+      "date": "2024-07-15",
+      "description": "Explore breathtaking artworks from local and international artists.",
+      "address": "123 Gallery Street",
+      "location": "Downtown Art Center",
+      "timings": "10:00 AM - 6:00 PM",
+      "images": [
+        "/images/summer-art-1.jpg",
+        "/images/summer-art-2.jpg",
+        "/images/summer-art-3.jpg"
+      ],
+      "logo": "/logos/art-exhibition-logo.png"
+    },
+    {
+      "id": 2,
+      "title": "Tech Conference 2024",
+      "date": "2024-09-20",
+      "description": "Join industry leaders for cutting-edge tech discussions and networking.",
+      "address": "456 Innovation Avenue",
+      "location": "TechHub Convention Center",
+      "timings": "9:00 AM - 5:00 PM",
+      "images": [
+        "/images/tech-conf-1.jpg",
+        "/images/tech-conf-2.jpg"
+      ],
+      "logo": "/logos/tech-conf-logo.png"
+    },
+    {
+      "id": 3,
+      "title": "Annual Charity Gala",
+      "date": "2024-12-05",
+      "description": "An elegant evening supporting local charities with dinner and live entertainment.",
+      "address": "789 Charity Lane",
+      "location": "Grand Ballroom",
+      "timings": "7:00 PM - 11:00 PM",
+      "images": [
+        "/images/charity-gala-1.jpg"
+      ],
+      "logo": "/logos/charity-gala-logo.png"
+    }
+  ]

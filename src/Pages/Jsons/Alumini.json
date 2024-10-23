@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Jane Doe",
+    "designation": "Published author and literacy advocate",
+    "batch": "Class of 2020",
+    "image": "jane-doe.jpg"
+  },
+  {
+    "name": "John Smith",
+    "designation": "Founder of a successful educational technology startup",
+    "batch": "Class of 2018",
+    "image": "john-smith.jpg"
+  },
+  {
+    "name": "Emily Johnson",
+    "designation": "Renowned researcher and scientist",
+    "batch": "Class of 2015",
+    "image": "emily-johnson.jpg"
+  }
+]

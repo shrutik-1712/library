@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "title": "The Quantum Enigma",
+      "author": "Alice Johnson",
+      "cover": "/api/placeholder/200/300",
+      "description": "A fascinating journey through the mysteries of quantum physics."
+    },
+    {
+      "id": 2,
+      "title": "Echoes of Atlantis",
+      "author": "Michael Crichton",
+      "cover": "/api/placeholder/200/300",
+      "description": "An thrilling adventure novel exploring the myths of the lost city."
+    },
+    {
+      "id": 3,
+      "title": "The Art of Mindful Living",
+      "author": "Emma Thompson",
+      "cover": "/api/placeholder/200/300",
+      "description": "A practical guide to incorporating mindfulness into your daily life."
+    },
+    {
+      "id": 4,
+      "title": "Code: The Hidden Language",
+      "author": "Charles Petzold",
+      "cover": "/api/placeholder/200/300",
+      "description": "An in-depth look at how computers work from the inside out."
+    },
+    {
+      "id": 5,
+      "title": "The Culinary Chronicle",
+      "author": "Gordon Ramsay",
+      "cover": "/api/placeholder/200/300",
+      "description": "A journey through world cuisines and their historical significance."
+    }
+  ]

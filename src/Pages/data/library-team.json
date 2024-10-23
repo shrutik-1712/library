@@ -1,0 +1,22 @@
+[
+    {
+      "name": "Emily Brown",
+      "role": "Head Librarian",
+      "image": "/images/team/emily-brown.jpg"
+    },
+    {
+      "name": "Michael Lee",
+      "role": "Assistant Librarian",
+      "image": "/images/team/michael-lee.jpg"
+    },
+    {
+      "name": "Sarah Chen",
+      "role": "Information Specialist",
+      "image": "/images/team/sarah-chen.jpg"
+    },
+    {
+      "name": "David Kim",
+      "role": "Technical Services Librarian",
+      "image": "/images/team/david-kim.jpg"
+    }
+  ]
